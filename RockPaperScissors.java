@@ -83,15 +83,7 @@ for(int i=1; i<=3; i++)
 System.exit(0);
 }
 }
-/*
-Enter your choice as an integer value: 2
-The computer played a 1 which is a rock!
-You chose 2 and the computer chose 1 so you won!
-Sorry, the computer won this round. Try again!
-You chose a 2 and the computer chose 3
-You chose a 3 and the computer chose 1
-You chose a 3 and the computer chose 2
-*/
+
 
 
 
